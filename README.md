@@ -13,8 +13,7 @@
 - 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia)
 ---
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <p align="center"> 
@@ -30,8 +29,7 @@
  &ensp; &ensp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
 
 ---
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianasalafia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianasalafia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
 
 <h3 align="right">Connect with me:</h3>

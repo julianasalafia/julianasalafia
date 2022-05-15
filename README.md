@@ -32,6 +32,11 @@
 ---
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julianasalafia&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
+ ---
+  
+  ![Snake animation](https://github.com/julianasalafia/julianasalafia/blob/output/github-contribution-grid-snake.svg)
+  
+ ---
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">

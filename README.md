@@ -1,6 +1,7 @@
 
 <h2>Hey, I'm Juliana!</h2>
 
+![cover](https://i.imgur.com/ryrCrQb.jpg)
 
 - 🐱‍👤 I'm a frontend mobile developer from Brazil
 

@@ -13,7 +13,7 @@
 - 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia)
 ---
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <p align="center"> 

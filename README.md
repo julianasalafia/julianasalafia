@@ -5,7 +5,7 @@
 
 - 🐱‍👤 I'm a frontend mobile developer from Brazil
 
-- 🔭 I currently work as a jr mobile software developer at [**Player's Bank**](https://www.instagram.com/playersbank/)
+- 🔭 I had 2 years of experience as a jr mobile software developer at [**Player's Bank**](https://www.instagram.com/playersbank/)
 
 - 🌱 I’m currently focused on developing skills on [**Android Development**](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 

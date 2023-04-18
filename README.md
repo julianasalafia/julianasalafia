@@ -45,4 +45,4 @@
 &ensp;<a href="https://discord.gg/ser3na#4723" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="ser3na#4723" height="25" width="25" /></a>
 </p>
 
-<p align="right"> <a href="https://twitter.com/raining1nkyot0" target="blank"><img src="https://img.shields.io/twitter/follow/raining1nkyot0?logo=twitter&style=for-the-badge" alt="raining1nkyot0" /></a> </p>
+<p align="right"> <a href="https://twitter.com/jssdotkt" target="blank"><img src="https://img.shields.io/twitter/follow/jssdotkt?logo=twitter&style=for-the-badge" alt="jssdotkt" /></a> </p>

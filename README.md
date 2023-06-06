@@ -3,15 +3,15 @@
 
 ![cover](https://i.imgur.com/ryrCrQb.jpg)
 
-- 🐱‍👤 I'm a frontend mobile developer from Brazil
+- 🐱‍👤 I'm a frontend mobile developer from Brazil.
 
-- 🔭 I had 2 years of experience as a jr mobile software developer at [**Player's Bank**](https://www.instagram.com/playersbank/)
+- 🔭 I started my career as a software developer in a Bootcamp by Itaú Unibanco, and I was part of the [**Player's Bank**](https://www.instagram.com/playersbank/) team.
 
-- 🌱 I’m currently focused on developing skills on [**Android Development**](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
+- 🌱 I’m currently focused on developing skills on Android Development and Flutter.
 
-- ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/)
+- ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/).
 
-- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia)
+- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia).
 ---
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)

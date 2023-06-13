@@ -1,7 +1,7 @@
 
 <h2>Hey, I'm Juliana!</h2>
 
-![cover](https://i.imgur.com/ryrCrQb.jpg)
+![cover](https://i.imgur.com/3AaMgCu.jpg)
 
 - 🐱‍👤 I'm a frontend mobile developer from Brazil.
 
@@ -20,8 +20,8 @@
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
  &ensp; &ensp;<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> </a> 
- &ensp; &ensp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/> </a>
- &ensp; &ensp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+ &ensp; &ensp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="60" height="60"/> </a>
+ &ensp; &ensp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> 
  &ensp; &ensp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> 
  &ensp; &ensp;<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a> 
  &ensp; &ensp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>

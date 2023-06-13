@@ -41,8 +41,8 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 &ensp;<a href="https://linkedin.com/in/julianasalafia" target="blank"><img align="center" src="https://mekes.com/app/uploads/2020/12/linkedin-logo.png" alt="julianasalafia" height="25" width="25" /></a>
-&ensp;<a href="https://instagram.com/raining1nkyoto" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-File.png" alt="raining1nkyoto" height="25" width="25" /></a>
+&ensp;<a href="https://instagram.com/jss.kt" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-File.png" alt="raining1nkyoto" height="25" width="25" /></a>
 &ensp;<a href="https://discord.gg/ser3na#4723" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="ser3na#4723" height="25" width="25" /></a>
 </p>
 
-<p align="right"> <a href="https://twitter.com/jssdotkt" target="blank"><img src="https://img.shields.io/twitter/follow/jssdotkt?logo=twitter&style=for-the-badge" alt="jssdotkt" /></a> </p>
+<p align="right"> <a href="https://twitter.com/0xFF1493" target="blank"><img src="https://img.shields.io/twitter/follow/0xFF1493?logo=twitter&style=for-the-badge" alt="0xFF1493" /></a> </p>

@@ -14,7 +14,7 @@
 - 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia), you can find more coding studies on [**GitGist**](https://gist.github.com/julianasalafia).
 ---
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <p align="center"> 

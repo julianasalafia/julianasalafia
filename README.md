@@ -7,7 +7,7 @@
 
 - 🔭 I started my career as a software developer in a Bootcamp by Itaú Unibanco, and I was part of the [**Player's Bank**](https://www.instagram.com/playersbank/) team.
 
-- 🌱 I’m currently focused on developing skills on Android Development and Flutter.
+- 🌱 I’m currently focused on developing skills on Flutter.
 
 - ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/).
 

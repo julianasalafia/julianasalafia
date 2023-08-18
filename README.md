@@ -8,6 +8,8 @@
 - 🔭 I started my career as a software developer in a Bootcamp by Itaú Unibanco, and I was part of the [**Player's Bank**](https://www.instagram.com/playersbank/) team.
 
 - 🌱 I’m currently focused on developing skills on Flutter.
+  
+- 🔥 Right now, I'm studying **Applied Science in Systems Analysis and Development** at university, and I'm also taking part in the **Santander 2023 Bootcamp with Flutter** — In addition, I also have some personal projects that I'm updating in parallel.
 
 - ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/).
 

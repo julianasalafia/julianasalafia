@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focused on developing skills on Flutter.
   
-- 🔥 Right now, I'm studying **Applied Science in Systems Analysis and Development** at university, and I'm also taking part in the **Santander 2023 Bootcamp with Flutter** — In addition, I also have some personal projects that I'm updating in parallel.
+- 🔥 Right now, I'm studying **Applied Science in Systems Analysis and Development** at university, I also took part recently in the **Santander 2023 Bootcamp with Flutter** and now I'm in a **mentoring/training program by Flutterando** — In addition, I also have some personal projects that I'm updating in parallel and I'm an active member in the Flutter discord community.
 
 - ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/).
 

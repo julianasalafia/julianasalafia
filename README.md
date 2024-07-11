@@ -4,16 +4,18 @@
 ![cover](https://i.imgur.com/3AaMgCu.jpg)
 
 - 🐱‍👤 I'm a frontend mobile developer from Brazil.
+  
+- 🔥 Right now, I'm part of the main staff of **Flutterando**, the biggest Flutter community in Brazil.
 
 - 🔭 I started my career as a software developer in a Bootcamp by Itaú Unibanco, and I was part of the [**Player's Bank**](https://www.instagram.com/playersbank/) team.
 
-- 🌱 I’m currently focused on developing skills on Flutter.
-  
-- 🔥 Right now, I'm studying **Applied Science in Systems Analysis and Development** at university, I also took part recently in the **Santander 2023 Bootcamp with Flutter** and now I'm in a **mentoring/training program by Flutterando** — In addition, I also have some personal projects that I'm updating in parallel and I'm an active member in the Flutter discord community.
+- 🌱 I’m currently focused on developing skills on Flutter.  
 
-- ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://fdcomunicacao.com.br/).
+- I'm studying **Applied Science in Systems Analysis and Development** at university — In addition, I also have some personal projects that I'm updating in parallel.
 
-- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.salafia), you can find more coding studies on [**GitGist**](https://gist.github.com/julianasalafia).
+- ⚡ Fun fact: I'm a formed [**Game Designer**](https://www.behance.net/jssalafia) and I used to work in a **PR Agency** focused on [**Games and Esports**](https://www.linkedin.com/company/fdcomunicacao/).
+
+- 📫 You can find out more **about me** at [**Linktr.ee**](https://linktr.ee/juliana.rousseau), you can find more coding studies on [**GitGist**](https://gist.github.com/julianasalafia).
 ---
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=julianasalafia&theme=dracula&margin-w=12&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -42,9 +44,9 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-&ensp;<a href="https://linkedin.com/in/julianasalafia" target="blank"><img align="center" src="https://mekes.com/app/uploads/2020/12/linkedin-logo.png" alt="julianasalafia" height="25" width="25" /></a>
+&ensp;<a href="https://www.linkedin.com/in/julianarousseau/" target="blank"><img align="center" src="https://mekes.com/app/uploads/2020/12/linkedin-logo.png" alt="julianasalafia" height="25" width="25" /></a>
 &ensp;<a href="https://www.instagram.com/0xff1493/" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-File.png" alt="0xff1493" height="25" width="25" /></a>
-&ensp;<a href="https://discord.gg/" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="0xff1493" height="25" width="25" /></a>
+&ensp;<a href="https://discord.flutterando.com.br" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="flutterando" height="25" width="25" /></a>
 </p>
 
 <p align="right"> <a href="https://twitter.com/0xFF1493" target="blank"><img src="https://img.shields.io/twitter/follow/0xFF1493?logo=twitter&style=for-the-badge" alt="0xFF1493" /></a> </p>
